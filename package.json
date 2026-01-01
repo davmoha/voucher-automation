@@ -1,0 +1,9 @@
+{
+  "name": "voucher-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "resend": "^3.0.0"
+  }
+}
